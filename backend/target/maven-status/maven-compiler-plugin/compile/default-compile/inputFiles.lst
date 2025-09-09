@@ -1,0 +1,13 @@
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/dto/UserResponse.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/service/MailService.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/BackendApplication.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/entity/User.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/controller/UsersController.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/repository/UserRepository.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/controller/AuthController.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/dto/VerifyOtpDto.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/config/CorsConfig.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/dto/RequestOtpDto.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/config/MailConfig.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/dto/LoginDto.java
+/Users/nihash_yanamandala/Downloads/login-web-app-java17/backend/src/main/java/com/example/backend/service/AuthService.java
